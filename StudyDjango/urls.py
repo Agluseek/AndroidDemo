@@ -7,6 +7,4 @@ urlpatterns = [
     # sign system interface:
     # ex : /api/add_event/
 
-
-
 ]
